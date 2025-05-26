@@ -15,5 +15,3 @@ a ver si es cierto
 #### bueno nuevos cambios
 
 pero ahora modifucado desde la computadora local
-
-bueno, ahora estos cambios son hechos en el github
