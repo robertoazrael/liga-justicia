@@ -10,3 +10,8 @@ Pueden hacer lo que quieran...
 ### Modificaciones desde GitHub
 
 a ver si es cierto
+
+
+#### bueno nuevos cambios
+
+pero ahora modifucado desde la computadora local
